@@ -1,2 +1,2 @@
 # FunnyPics
-Web scraper for my meme app
+Web scraper for my meme app. 
